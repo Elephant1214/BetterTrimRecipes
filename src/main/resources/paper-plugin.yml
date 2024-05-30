@@ -1,0 +1,6 @@
+name: BetterTrimRecipes
+version: "${version}"
+main: me.elephant1214.bettertrimrecipes.BetterTrimRecipes
+load: STARTUP
+api-version: "1.20"
+author: Elephant_1214
